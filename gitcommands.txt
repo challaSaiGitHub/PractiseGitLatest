@@ -1,0 +1,12 @@
+ls
+mkdir
+cd
+touch
+vi
+cat 
+restore --staged filename.txt
+git add .
+git remote add origin url
+git clone url
+git branch branchname
+git checkout branchname
